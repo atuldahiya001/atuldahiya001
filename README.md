@@ -1,4 +1,4 @@
-
+  
 # project3
 # Errorhandling Contract
 This Solidity smart contract demonstrates different error handling techniques using `assert`, `revert`, and `require` functions. This Solidity smart contract provides functionality to handle weather conditions and umbrella requirements. It allows for checking the weather, changing the weather condition, getting the number of weather calls, and determining if an umbrella is needed based on the weather condition.
